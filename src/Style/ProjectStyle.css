@@ -3,7 +3,8 @@
   margin: 0 auto;
   font-family: "Arial";
   text-align: left;
-  height: 720px;
+  height: 750px;
+  display: inline-block;
   /*grid-template-columns: 1fr 1fr 1fr;*/
 }
 
@@ -30,7 +31,7 @@
   height: 130px;
   width: 400px;
   left: 3%;
-  top:0;
+  top: 0;
   font-family: "Arial";
   text-align: left;
   background-color: #FEBA30;
