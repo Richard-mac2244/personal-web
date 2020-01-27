@@ -7,17 +7,7 @@
   /*grid-template-columns: 1fr 1fr 1fr;*/
 }
 
-/*[class^="/static/media/"]{
-  position: absolute;
-  z-index: 0;
-  left: 2%;
-  top: 20px;
-  height: 700px;
-  margin-bottom: 20%;
-  box-shadow: 0 4px 14px 0 rgba(0, 0, 0, 0.15);
-}*/
-
-.proja1{
+.proja1 {
   position: absolute;
   z-index: 0;
   left: 2%;
