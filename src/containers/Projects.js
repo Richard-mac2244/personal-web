@@ -12,9 +12,9 @@ function Projects({ title, dark, id }) {
       <div className="section-content" id={id}>
         <h1>{title}</h1>
         <div className="section-project">
-            <FadeInSection>
-              <img className = "proja1" src = {proja1} alt="Project_Image_1"/>
-            </FadeInSection>
+          <FadeInSection >
+            <img className="proja1" src = {proja1} alt="Project_Image_1"/>
+          </FadeInSection>
           {bodies.map(body => (
             <FadeInSection key = {body}>
               <p className={body.substring(0,6)}> {body.substring(7)} </p>
