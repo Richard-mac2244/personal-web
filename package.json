@@ -1,20 +1,22 @@
 {
-  "homepage": "http://richard-mac2244.github.io/Richard-mac2244.github.io"
+  "homepage": "http://Richard-mac2244.github.io/personal-web.git",
   "name": "personalweb",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "jquery": "^3.4.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "^3.3.0",
+    "react-scroll": "^1.7.16"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
