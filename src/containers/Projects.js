@@ -13,9 +13,7 @@ function Projects({ title, dark, id }) {
         <h1>{title}</h1>
         <div className="section-project">
             <FadeInSection>
-              <div className="project-image" >
-                <img className = "proja1" src = {proja1} alt="Project_Image_1"/>
-              </div>
+              <img className = "proja1" src = {proja1} alt="Project_Image_1"/>
             </FadeInSection>
           {bodies.map(body => (
             <FadeInSection key = {body}>
