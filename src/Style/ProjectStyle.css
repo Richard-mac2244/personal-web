@@ -4,7 +4,6 @@
   font-family: "Arial";
   text-align: left;
   height: 750px;
-  display: inline-block;
   /*grid-template-columns: 1fr 1fr 1fr;*/
 }
 
@@ -13,8 +12,8 @@
   z-index: 0;
   left: 2%;
   top: 20px;
-  height: 700px;
-  width: auto;
+  height: auto;
+  width: 100%;
   margin-bottom: 20%;
   box-shadow: 0 4px 14px 0 rgba(0, 0, 0, 0.15);
 }
