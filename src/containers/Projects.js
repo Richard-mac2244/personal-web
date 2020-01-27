@@ -14,8 +14,7 @@ function Projects({ title, dark, id }) {
           {images.map(image => (
             <FadeInSection key={image}>
               <div className="project-image" >
-                <img className = {image} src = {image} alt={image}/>
-                <span> {image} </span>
+                <p> {image} </p>
               </div>
             </FadeInSection>
           ))}
