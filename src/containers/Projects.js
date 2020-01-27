@@ -15,6 +15,7 @@ function Projects({ title, dark, id }) {
             <FadeInSection key={image}>
               <div className="project-image" >
                 <img className = {image} src = {image} alt={image}/>
+                <span> {image} </span>
               </div>
             </FadeInSection>
           ))}
