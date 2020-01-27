@@ -1,0 +1,21 @@
+.image-cropper {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.Profile_pic {
+  margin: 0 auto;
+  height: 100%;
+  width: auto;
+}
+
+.body {
+  margin-top: 20px;
+}
+
+.pic {
+  height: 720px;
+  max-width: auto;
+}
