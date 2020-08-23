@@ -1,5 +1,61 @@
+.ResumeAlign{
+  max-width: 100%;
+  justify-content: center;
+}
+
 .ResumePic{
+  flex-grow: 2;
   height: 720px;
   max-width: auto;
   box-shadow: 0 4px 14px 0 rgba(0, 0, 0, 0.15);
+}
+
+.ResumeList{
+  margin-right: 300px;
+  align-items:
+}
+
+.res-item {
+  list-style-type: none;
+  margin: 0;
+  text-align: center;
+  padding: 20%;
+}
+
+.res-item > .active {
+    border-bottom: 2px solid black;
+    margin-top: 20px;
+    transform: translateY(20px);
+    transition: border-bottom 200ms linear
+}
+
+.res-item:hover {
+  cursor: pointer;
+  background-color: #EEEEEE;
+
+}
+
+.school-img {
+  width: 240px;
+  height: 144.4px;
+}
+
+.disney-img {
+  width: 240px;
+  height: 144.4px;
+}
+
+.project-img {
+  width: 144.4px;
+  height: 144.4px;
+}
+
+.creative-img {
+  width: 240ppx;
+  height: 144.4px;
+}
+
+.card:hover {
+  cursor: pointer;
+  background-color: #EEEEEE;
 }
