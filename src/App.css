@@ -86,19 +86,6 @@
   text-align: center;
 }
 
-.mainBody {
-  background-color: var(--off-white);
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 40px;
-  font-family: "Arial";
-  display: grid;
-  grid-template-columns: 1fr 4fr;
-  border-radius:15px;
-  position: relative;
-  top:25%;
-}
-
 .section-link {
   max-width: 900px;
   margin: 0 auto;
@@ -108,7 +95,7 @@
 }
 
 hr {
-  width: 800px;
+  width:75%;
   border: 1px solid black;
 }
 
