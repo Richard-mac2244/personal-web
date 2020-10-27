@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/personal-web/static/css/main.b28c9411.chunk.css",
+    "main.js": "/personal-web/static/js/main.32dcb23f.chunk.js",
+    "main.js.map": "/personal-web/static/js/main.32dcb23f.chunk.js.map",
+    "runtime-main.js": "/personal-web/static/js/runtime-main.6bc5c136.js",
+    "runtime-main.js.map": "/personal-web/static/js/runtime-main.6bc5c136.js.map",
+    "static/js/2.9706e229.chunk.js": "/personal-web/static/js/2.9706e229.chunk.js",
+    "static/js/2.9706e229.chunk.js.map": "/personal-web/static/js/2.9706e229.chunk.js.map",
+    "index.html": "/personal-web/index.html",
+    "precache-manifest.c6aee49c3c59a51867e4b46744aad18c.js": "/personal-web/precache-manifest.c6aee49c3c59a51867e4b46744aad18c.js",
+    "service-worker.js": "/personal-web/service-worker.js",
+    "static/css/main.b28c9411.chunk.css.map": "/personal-web/static/css/main.b28c9411.chunk.css.map",
+    "static/js/2.9706e229.chunk.js.LICENSE": "/personal-web/static/js/2.9706e229.chunk.js.LICENSE",
+    "static/media/Project_Flash.png": "/personal-web/static/media/Project_Flash.164743c3.png",
+    "static/media/Resume.png": "/personal-web/static/media/Resume.a0856f71.png",
+    "static/media/App.css": "/personal-web/static/media/back2.4c063b56.png",
+    "static/media/creative.png": "/personal-web/static/media/creative.1c04600e.png",
+    "static/media/disney.png": "/personal-web/static/media/disney.debd331e.png",
+    "static/media/pic2.png": "/personal-web/static/media/pic2.508eba62.png",
+    "static/media/project.png": "/personal-web/static/media/project.24e08383.png",
+    "static/media/sjsu.png": "/personal-web/static/media/sjsu.3fc1589f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bc5c136.js",
+    "static/js/2.9706e229.chunk.js",
+    "static/css/main.b28c9411.chunk.css",
+    "static/js/main.32dcb23f.chunk.js"
+  ]
+}
