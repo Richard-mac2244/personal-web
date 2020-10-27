@@ -20,8 +20,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-top: 5%;
-  padding: auto;
+  padding-top: 4%;
 }
 
 .mainBody {
@@ -41,7 +40,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-top: 3.7%;
+  padding-top: 4%;
 }
 
 .arrow_down {
