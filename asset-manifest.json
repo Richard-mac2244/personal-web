@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "/personal-web/static/css/main.54404642.chunk.css",
-    "main.js": "/personal-web/static/js/main.51bca4e8.chunk.js",
-    "main.js.map": "/personal-web/static/js/main.51bca4e8.chunk.js.map",
+    "main.css": "/personal-web/static/css/main.7382118a.chunk.css",
+    "main.js": "/personal-web/static/js/main.8647276c.chunk.js",
+    "main.js.map": "/personal-web/static/js/main.8647276c.chunk.js.map",
     "runtime-main.js": "/personal-web/static/js/runtime-main.b98836e0.js",
     "runtime-main.js.map": "/personal-web/static/js/runtime-main.b98836e0.js.map",
-    "static/js/2.ae20c959.chunk.js": "/personal-web/static/js/2.ae20c959.chunk.js",
-    "static/js/2.ae20c959.chunk.js.map": "/personal-web/static/js/2.ae20c959.chunk.js.map",
+    "static/js/2.2b9ebbc2.chunk.js": "/personal-web/static/js/2.2b9ebbc2.chunk.js",
+    "static/js/2.2b9ebbc2.chunk.js.map": "/personal-web/static/js/2.2b9ebbc2.chunk.js.map",
     "index.html": "/personal-web/index.html",
-    "precache-manifest.8cceb737f73810aa84b9ceadc5717790.js": "/personal-web/precache-manifest.8cceb737f73810aa84b9ceadc5717790.js",
+    "precache-manifest.bb186786aa6bef3dfb369b14bba933c4.js": "/personal-web/precache-manifest.bb186786aa6bef3dfb369b14bba933c4.js",
     "service-worker.js": "/personal-web/service-worker.js",
-    "static/css/main.54404642.chunk.css.map": "/personal-web/static/css/main.54404642.chunk.css.map",
-    "static/js/2.ae20c959.chunk.js.LICENSE.txt": "/personal-web/static/js/2.ae20c959.chunk.js.LICENSE.txt",
+    "static/css/main.7382118a.chunk.css.map": "/personal-web/static/css/main.7382118a.chunk.css.map",
+    "static/js/2.2b9ebbc2.chunk.js.LICENSE.txt": "/personal-web/static/js/2.2b9ebbc2.chunk.js.LICENSE.txt",
     "static/media/Project_Flash.png": "/personal-web/static/media/Project_Flash.164743c3.png",
     "static/media/Resume.png": "/personal-web/static/media/Resume.a0856f71.png",
     "static/media/App.css": "/personal-web/static/media/back2.4c063b56.png",
     "static/media/creative.png": "/personal-web/static/media/creative.1c04600e.png",
     "static/media/disney.png": "/personal-web/static/media/disney.debd331e.png",
+    "static/media/flashtryp.png": "/personal-web/static/media/flashtryp.4b815699.png",
     "static/media/pic2.png": "/personal-web/static/media/pic2.508eba62.png",
     "static/media/project.png": "/personal-web/static/media/project.24e08383.png",
     "static/media/sjsu.png": "/personal-web/static/media/sjsu.3fc1589f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b98836e0.js",
-    "static/js/2.ae20c959.chunk.js",
-    "static/css/main.54404642.chunk.css",
-    "static/js/main.51bca4e8.chunk.js"
+    "static/js/2.2b9ebbc2.chunk.js",
+    "static/css/main.7382118a.chunk.css",
+    "static/js/main.8647276c.chunk.js"
   ]
 }
